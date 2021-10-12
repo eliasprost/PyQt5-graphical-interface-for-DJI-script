@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>logo_completo.png</file>
+  </qresource>
+</RCC>
